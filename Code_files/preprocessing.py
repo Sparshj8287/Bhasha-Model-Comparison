@@ -19,7 +19,7 @@ class TextProcessor:
 
         # Load FastText model 
         try:
-            model=fasttext.load_model('lid.176.bin')
+            model=fasttext.load_model('Code_files/lid.176.bin')
         except Exception as e:
             print(f"Error loading FastText model: {e}")
             return

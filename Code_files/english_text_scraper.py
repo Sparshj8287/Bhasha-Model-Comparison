@@ -65,6 +65,6 @@ if __name__ == '__main__':
             'https://www.poshantracker.in/PTCalculator'
             ]
     
-    MODEL_PATH = 'lid.176.bin'
+    MODEL_PATH = 'Code_files/lid.176.bin'
     scraper = EnglishTextScraper(MODEL_PATH)
     scraper.main(URLS)
