@@ -1,4 +1,4 @@
-#<center>Bhasha Model Comparison<center>
+# <center>Bhasha Model Comparison<center>
 <br>
 
 The **Bhasha Model Comparison** repository is a project aimed at evaluating and comparing the performance of two different language translation models on 11 diverse Indian languages. The project focuses on translating these Indian languages into English using two distinct models: the **Indic Trans model** and the **NLLB (No language left behind)** model. The repository provides a comprehensive framework for assessing the translation quality and effectiveness of these models across various Indian languages.
