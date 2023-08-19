@@ -151,7 +151,7 @@ os.environ['PYTHONPATH'] += ":/content/fairseq/"
 ```python
 pip install -r requirements.txt
 ```
-**Download the fasttext model weight file and add the file in the Code_files repository:**
+**Download the fasttext model weight file and add the file in the Code_files directory:**
 [Link](https://dl.fbaipublicfiles.com/fasttext/supervised-models/lid.176.bin)
 
 
