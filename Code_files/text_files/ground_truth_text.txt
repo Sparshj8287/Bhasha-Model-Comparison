@@ -1,0 +1,261 @@
+About
+Dashboard
+Resources
+Resources Center
+Vaccination Schedule
+Helpdesk
+Beneficiary Redressal
+State Helpdesk
+FAQ
+Poshan Calculator
+Login 
+Gender 
+Date of Birth 
+Show Results 
+Book VC 
+Careers
+Contact
+Terms of Service
+Privacy Policy
+We believe in building doers. Poshan Tracker is a project of Ministry of Women and Child Development. Digital India Corporation is the technical partner of MoWCD. Poshan Tracker focuses on eradication of malnutrition from India. It serves as a mechanism to monitor and improvise on the service delivery under Poshan Abhiyaan.
+Welcome! The following are the Terms of Service (“Terms”) that govern your use of the Poshan Tracker Platform hosted at 
+, and all associated sites linked to it, its subsidiaries, and affiliates (collectively, the “Site”).
+I. OWNERSHIP
+The Site and all data, text, designs, pages, print screens, images, artwork, photographs, audio and video clips, HTML code, source code, or software that reside or are viewable or otherwise discoverable on the Site, and all participants booked from the Site, (collectively, termed as the “Content”) are owned by Ministry of Women and Child Development and their authorised service providers.
+II. CONSENT
+Our Privacy Policy, Open API Policy and any other policies, rules or guidelines that may be applicable to particular offers or features on the Site are incorporated in these Terms. By visiting or using the Site, you expressly agree to these Terms, as updated from time to time.
+If you do not agree with any part of these terms, do not use the site. You may not use the Site in any manner and may not accept the Terms if you are not of legal age to form a binding contract.
+III. NOTICE REGARDING FUTURE CHANGES TO TERMS:
+We reserve the unconditional right to change, modify, add, or remove any part of these Terms at any time, without specifically notifying you of such changes. Any changes or updates will be effective immediately. You take the responsibility to check these Terms of Use periodically for changes. Your continued use of the platform post such revision shall constitute acceptance of the modified Terms.
+IV. ACCOUNT REGISTRATION
+You may browse the Site without registering for an account. You will be required to register for an account with your mobile number, if you intent to use certain features or services offered by the Site.
+By acceptance of these Terms, you expressly agree to authorize us to use your identity information (including Aadhaar details) and also of all the other members registered in your account.
+You are solely responsible for maintaining the confidentiality of your personal information and registration and all activities that might result from you failing from keeping this information secure. Your registration or mobile number shall be kept confidential
+You undertake that:
+You have obtained consent from the concerned individuals for creating their records through your account.
+Your account or mobile number shall not include the name of another person with the intent to impersonate that person.
+You shall not use another user's account without their permission.
+You shall immediately notify us in writing, if you discover any unauthorized use of your account or other account-related security breach. If we receive a complaint that your account violates someone else's rights, or violates our policies we may cancel or block your account.
+You shall not attempt to conceal your identity by using multiple Internet Protocol addresses or mobile no, or by any other means, to register participants on the Site
+V. ACCESS PERMISSIONS
+You will only access (or attempt to access) the Site by the means described in the Documentation and will comply with the terms and conditions of this Agreement.
+You will comply with all Central and State laws, rules and regulations applicable to you and your use of the Site and affecting any third-party rights.
+VI. ACCESS RESTRICTIONS
+You shall not, either on your own or through any other person:
+Restrict or inhibit any other person from using the Site
+Use the Site for any unlawful purpose
+Express or imply that any statements you make are endorsed by us, without our prior written consent
+Impersonate any person or entity, whether actual or fictitious
+Engage in spamming or flooding
+Harvest or collect information about Site users
+Open multiple accounts for yourself or any other individual using multiple mobile numbers
+Submit any software or other materials that contain any viruses, worms, Trojan horses, defects, date bombs, time bombs or other items of destructive nature
+Manipulate identifiers, including by forging headers, in order to disguise the origin of any posting that you submit
+Link to any portion of the Site other than the URL assigned to the home page of the Site
+“Frame” or “Mirror” any part of the Site
+Modify, adapt, sub-license, translate, sell, reverse engineer, decompile or disassemble any portion of the Site, or otherwise attempt to derive any source code or underlying ideas or algorithms of any part of the Content
+Remove any copyright, trademark or other proprietary rights notices contained on the Site
+Use any computer program, bot, robot, spider, offline reader, site search/retrieval application or other manual or automatic device, tool, or process to retrieve, index, data mine, or in any way reproduce or circumvent the security structure, navigational structure, or presentation of the Content or the Site, including with respect to any CAPTCHA displayed on the Site.
+Use any automated software or computer system to search for or book appointment including sending information from your computer to another computer where such software or system is active
+Take any action that imposes or may impose (in our sole discretion) an unreasonable or disproportionately large load on our infrastructure.
+Use the Site or Reproduce, modify, display, publicly perform, distribute or create derivative works of the Site or the Content
+The Content in an attempt to, or in conjunction with, any device, program or service designed to circumvent any technological measure that effectively controls access to, or the rights in, the Site and/or Content in any way including, without limitation, by manual Decode, decrypt, modify, or reverse engineer certificate or underlying algorithms or automatic device or process, for any purpose
+You will not use bot technology to search for registering participants through the Site; for the avoidance of doubt, this specifically prohibits you from using automated script based or automated software on the Site, and prohibits you from circumventing any security measure, access control system, or other technological control or measure on the Site that is used to enforce participation limits or to maintain the integrity of registering participants rules associated with one mobile number
+VII. INTELLECTUAL PROPERTY RIGHTS
+We own the intellectual property rights in the Site and Content. We may change the Content and features of the Site at any time.
+The registered and unregistered trademarks, logos, and service marks displayed on the Site are owned by us or our licensors. You may not use our trademarks, logos, and service marks in any way without our prior written permission.
+Material featured on this website may be reproduced free of charge. However, no part of the Site and no Content may be copied, republished, reproduced, uploaded, posted, displayed publicly, encoded, translated, transmitted or distributed in any way to any other computer, server, Web site or other medium for publication in a derogatory manner or in a misleading context.
+You may use information available on the Site, provided that you will (1) use such information only for your personal, non-commercial informational purpose and do not copy or post such information on any networked computer or broadcast it in any media, (2) not make any modifications to any such information and any additional representations or warranties relating to such documents and Content.
+Wherever the material is being published or issued to others, the source must be prominently acknowledged. However, the permission to reproduce this material shall not extend to any material which is identified as being copyright of a third party.
+VIII. LIMITATIONS OF MULTI- LINGUAL INTERFACE
+Translations on the Poshan Tracker Portal & App Chabot are done by third party translators. While the translations are done on a best effort basis, some of the parts may be incorrect. Certain files and other items on the website cannot be translated. In addition, on translation, some applications and/or services may not function as expected, due to language barriers. We are working constantly to rectify any errors, omissions, or ambiguities in the translations provided on this portal.
+IX. LINKS
+The Site may contain links to other websites that may not be owned, maintained, or operated by us. The fact that these websites are linked, does not indicate any endorsement of these websites from us, since we do have any control over these websites. We are not responsible for these websites including any content or the privacy practices of these websites. We strongly encourage you to familiarize yourself with the terms of use of these websites. Your use of these websites is at your own risk and peril. It is solely up to you to take necessary precautions to ensure that the links you select or any software you may download is free of viruses, worms, Trojan horses, defects, date bombs, time bombs, and other or other computer programming routines which are of destructive nature
+X. ACCESS FROM OUTSIDE INDIA
+The Site is directed to the people residing in India. We do not represent that Content available on or through the Site is appropriate or available in other locations. We may limit the availability of the Site or any service or product described on the Site to any person or geographic area at any time. If you choose to access the Site from outside India, you do so at your own risk.
+XI. VIOLATION OF THESE TERMS
+We may investigate any violation of these Terms, including unauthorized use of the Site. We may provide law enforcement with information you provide to us related to your transactions to assist in any investigation or prosecution of you. We may take legal action that we feel is appropriate. If we determine that you have violated these Terms or the law, or for any other reason or for no reason, we may block your account and will prevent you from accessing the Site at any time without notice to you.
+XII. RE-DISTRIBUTION
+Authorized organizations shall not re-distribute any data that they are able to access through the API/ No-code webpage integration and shall ensure that integration of all such data shall compulsorily be limited to the specific services provided by Poshan Tracker. Under no circumstances, shall an organization use the data collected as part of the Poshan Abhiyaan of the Government for any purposes other than the purposes specified herein, and as may be permitted by the government.
+XIII. COMPLIANCE WITH LAW, THIRD PARTY RIGHTS, AND OTHER TERMS OF SERVICE
+The authorized organizations will comply with all applicable laws, regulation, policies and third-party rights (including and without limitation, any laws regarding the import or export of data or software, privacy, and local laws) established by Government of India. These organizations will not use the APIs/ No-code webpage integration to encourage or promote illegal activity or violation of third-party rights including these Terms with Poshan Tracker.
+XIV. CORRECTNESS OF DATA PROVIDED BY THIRD PARTY SYSTEMS
+The ASPs collecting data from Poshan Tracker and displaying to users shall be solely responsible for the correctness of such data and any liability arising out of any data so provided, shall completely rest with such third party. Any liabilities civil or criminal, arising out of any incorrect data, shall solely lie with the concerned ASP.
+XV. INDEMNITY AND LIMITATION OF LIABILITY
+You agree to defend, indemnify and hold harmless Poshan Tracker and its affiliates, its officers, directors, employees and agents, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses including but not limited to attorneys fees relating to any allegation or third-party legal proceeding to the extent arising from:
+Your use of and access to the Site and Service;
+Your violation of any term of this Agreement;
+Your violation of any third party right, including without limitation, any copyright, property, or privacy right; or
+Any claim that your User Content caused damage to a third party. This defense and indemnification obligation will survive this Agreement and your use of the Service and Website/App.
+XVI. JURISDICTION
+Your use of the Site and any dispute arising out of such use of the Site is subject to the laws of India and place of jurisdiction shall be New Delhi.
+20 December 2021
+Poshan Abhiyaan is India’s flagship programme to improve nutritional outcomes for children, adolescents, pregnant women and lactating mothers by leveraging technology, a targeted approach and convergence.
+Poshan Tracker Portal or App is governed by Ministry of Woman and Child Development, Government of India, hereinafter referred to as “MWCD”, “our”, “us”, “we” which shall include a reference to other departments and divisions of the program/campaign. References to Poshan Tracker Portal or App in this policy include Poshan Tracker or any other Apps or portals that are integrated with Poshan Tracker through APIs / related sites, apps, communications and services (“Services”) hereinafter collectively referred to as “Poshan Tracker or System.”
+Our Privacy Policy applies when you use our Services (described below). This Privacy Policy is meant to help you understand what information we collect, why we collect it, and how it is used and shared. The collecting and retaining agency in respect of your information is MWCD.
+We are committed to protecting the security of your personal information and safeguarding your privacy. Any information or data collected and processed on the System is done in accordance with the provisions of Information Technology Act, 2000 read with its Rules and other national and state laws relating to the collection and processing of personal data.
+This Privacy Policy is required to be read in conjunction with the Terms of Service available at 
+. Your access to and use of the System is conditional upon your acceptance of this Privacy Policy and the Terms of Service. By accessing and/or using the System, you represent that you have read, understood and are bound by the Terms of Service and this Privacy Policy, and that you consent to your information and data being collected, stored and used in the manner laid out in this Privacy Policy.
+You hereby acknowledge that the collection of your information as described in Clause 1 of this Privacy Policy is necessary to fulfil the purposes specified in Clause 2 and 3 of this Privacy Policy.
+1. INFORMATION WE COLLECT
+1.1. Information you provide to us.
+We collect the content and other information that you provide when you use our Services, including when you sign up for an account. This can include- (i) Name (ii) Mobile number (iii) Date of Birth (iv)Gender (v) Name of Child (vi) Aadhaar Number (vii) Address
+If you choose not to provide data which is required to provide you with a product or feature, you cannot use that product or feature. You may, however, choose not to share personal data where providing the data is optional.
+1.2. Information from use of services.
+We log usage data when you visit or otherwise use our Services, including our sites, app and platform technology.
+We may use various technologies to collect and store information, including cookies, local storage, such as browser web storage or application data caches, databases, and server logs to collect and use your information in certain cases.
+1.3. Information from third parties.
+Our System provides API to Third – Party Sites that may collect your personal information. Poshan Tracker is not in any manner responsible for the security of such information or their privacy practices or content of those Third – Party Sites. Additionally, you may also encounter “cookies” or other similar devices on certain pages of the Third – Party Sites and it is hereby clarified by Poshan Tracker that the System does not control the use of cookies by these Third – Party Sites. These third-party service providers and Third-Party Sites may have their own privacy policies governing the storage and retention of your information that you may be subject to. This Privacy Policy does not govern any information provided to, stored on, or used by these third-party providers and Third-Party Sites. We recommend that when you enter a Third-Party Site, you review the Third Party Site’s privacy policy as it relates to safeguarding of your information. You agree and acknowledge that Poshan Tracker will not be liable for the information published in search results or by any Third-Party Sites.
+2. HOW WE USE PERSONAL INFORMATION
+We use the information we collect from all our services for the following purposes:
+2.1. Deliver our services.
+The information collected under Clause 1, shall be used for the purpose of facilitating the health of the beneficiaries.
+We provide our products, which includes updating, securing, and troubleshooting the information/data/ materials and contents of the System, as well as providing support.
+When you register on Poshan Tracker, the Mobile number with which you registered, will be used to locate your record from the database. These can also be used to assess the health status as recorded in the Poshan Tracker system.
+2.2. Communicate with you.
+We also send SMSs on your registered mobile number to alert you about registration, we also use your information to respond to you when you contact us and to investigate, respond to and resolve complaints and for Service issues (e.g. bugs).
+2.3. Verification.
+We use the information we have, to help verify accounts. The records may be used for verification of health status for the purposes of Poshan Tracker control and response.
+2.4. Security and Audit.
+We use your data (including your communications) for security purposes or to prevent or investigate possible fraud or other violations of our Terms of Service and/or attempts to harm our Members, Visitors or others.
+The Poshan Tracker system is regularly audited by auditors engaged by MWCD, for security and scalability of the system. The records may be used for such audits.
+2.5. Research and operational activities.
+We also use the data to operate our services, which includes analyzing our performance, meeting our legal obligations, developing our workforce, and doing research. We may also use the information to perform certain necessary operation for improvement of the System and for all acts incidental or ancillary to the provision of the System and for developing and providing new technologies and services.
+2.6. Surveys and Feedbacks.
+The System also takes feedback about system performance and experience. Information on name, mobile number, date of registration and health status may be used for these purposes
+3. SHARING OF INFORMATION
+3.1. Tracking health progress.
+The personal information collected from you at the time of registration under Clause 1 above, will be stored securely and only be used by the Government of India or State Govts for the purpose of tracking health progress and status, generating reports, heat maps and other statistical visualizations for the purpose of the management of Poshan Tracker in the country,. Your Reference ID (Mobile number) will only be co-related with your personal information in order to communicate to you through SMS as per the clause 1 above.
+We do not disclose or transfer your information to any other third parties without your consent, unless such disclosure or transfer is:
+1. Required in order to comply with any applicable law or court order or direction; or
+2. Requested by any appropriate Governmental agency as per applicable law for the purpose of, inter alia, verification of identity, prevention, detection, investigation, prosecution or punishment of any offences or incidents.
+3.2. Legal Disclosures.
+We may access, preserve and share your information in response to a legal request, subpoena, or other legal process or if we have a good faith belief that disclosure is reasonably necessary to (1) investigate, prevent or take action regarding fraud or  illegal activities or to assist government enforcement agencies; (2) enforce our agreements with you; (3) investigate and defend ourselves against any third-party claims or allegations; (4) protect the security or integrity of our Services (such as by sharing with companies facing similar threats); or (5) exercise or protect the rights and safety of any person.
+4. RETENTION
+All personal information collected from you under Clause 1 at the time of registration will be retained for as long as your record remains in existence and if any medical or administrative interventions have been commenced under Clause 2, subject to Clause4(b) below, for such period thereafter as is required for such interventions to be completed.
+All personal information collected under Clauses 1 will be retained on the application Server, to the extent that such information relates to people who have been registered for the event.
+Nothing set out herein shall apply to the anonymized, aggregated datasets generated by the personal data of registered users of Poshan Tracker or any reports, heat maps or other visualization created using such datasets.
+5. RIGHTS
+As a registered user, you have the right to access your profile at any time. Although, the changes can only be done as prescribed by the Poshan Tracker system from time to time.
+You cannot manage the communications that you receive from us or how you receive them.
+6. DATA SECURITY
+Poshan Tracker Platform has reasonable security measures and safeguards in place to protect your privacy and personal information from loss, misuse, unauthorized access, disclosure, destruction, and alteration of the information in compliance with applicable laws. Further, whenever you change or access your account on the System or any information relating to it, we offer the use of a secure server. It is further clarified that you have, so long as you access and/or use the System (directly or indirectly), the obligation to ensure that you, shall at all times, take adequate physical, managerial, and technical safeguards, at your end, to preserve the integrity and security of your data which shall include and not be limited to your personal information.
+7. CHANGES TO PRIVACY POLICY
+Poshan Tracker reserve the unconditional right to change, modify, add, or remove any part of this Privacy Policy at any time, without specifically notifying you of such changes. Any changes or updates will be effective immediately. You should review this Privacy Policy regularly for changes.
+We will use commercially reasonable efforts to generally notify all users of any material changes to this Privacy Policy, such as through a notice on the System. However, as a user of the System, you should regularly check the Privacy Policy for any changes. We will also update the “Last Updated” date at the top of this Privacy Policy, which reflects the effective date of this Privacy Policy. Your continued access or use of the System after the date of the new Privacy Policy constitutes your acceptance of the new Privacy Policy. If you do not agree to the new Privacy Policy, you must stop accessing and/or using the System. You hereby acknowledge that any collection, storage, processing or other use of your information shall be governed by the Privacy Policy as applicable at the time of such collection, storage, processing or other use.
+Select State
+Andaman & Nicobar Islands
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chhattisgarh
+Dadra & Nagar Haveli - Daman & Diu
+Delhi
+Goa
+Gujarat
+Haryana
+Himachal Pradesh
+J&K
+Jharkhand
+Karnataka
+Kerala
+Ladakh
+Lakshadweep
+Madhya Pradesh
+Maharashtra
+Manipur
+Meghalaya
+Mizoram
+Nagaland
+Odisha
+Puducherry
+Punjab
+Rajasthan
+Sikkim
+Tamil Nadu
+Telangana
+Tripura
+UT-Chandigarh
+Uttar Pradesh
+Uttarakhand
+West Bengal
+Select District
+Pregnant Women
+Lactating Mothers
+Awareness
+Pregnant Women 
+Lactating Mothers 
+General Awareness about Growth Monitoring of Children
+General Awareness about preventing illness in Children
+General Awareness for Pregnancy
+General Awareness on Module
+General Awareness on Anaemia
+General Awareness on SAM and MAM
+General Awareness on Mother Care
+General Awareness on the Delivery of the child
+Awareness for Pregnancy in Preventing Anemia
+Awareness for Lactating Mother Complimentary Feeding for Children
+Awareness to Lactating Mother
+Awareness for Children Stunting, Wasting to prevent malnutrition in children
+Growth Monitoring Assessment Charts
+0 months to 6 years
+0 months to 5 years
+Underweight
+Stunted Assessment Parameters
+Wasted Assessment Parameters
+Underweight Assessment Parameters
+Learning Videos
+How to take care of weak newborn with the help of Kangaroo Mother Care
+Preventing illnesses to avert Malnutrition and Death
+Prevention of Anemia in children and adolescents girls
+Birth Preparedness- For Institutional and Home Delivery
+Care of the weak newborn baby - How many weak babies are we missing?
+Feeding During Illness
+Preparation During Pregnancy - For NewBorn Care & Family Planning
+Ensuring Exclusive Breastfeeding
+Assessment of growth in children
+Preventing anemia in women
+Complementary Feeding - Diet Diversity
+Identification and care of a Weak Newborn baby
+Observing Breastfeeding In Newborn Babies
+Planning And Organising Community Based Events At AWC
+Making or Updating Home Visit Planner and Initiating home visits
+Ensuring that complementary feeding improves over time
+How to ensure timely initiation of complementary feeding
+Identifying and preventing Severe Acute Malnutrition
+Identification & Referral of Sick Newborn
+Supporting mothers with issues in Breastfeeding
+Why this Monthly Meeting?
+Download PDF 
+Clarification regarding Cost of Smart phones
+Uploading of Data of Anganwadi Services Schemes in Poshan Tracker
+Data Plan for Mobile Application
+Specifications of Smart phone and Technical Compatibility Testing
+Training on ICT Platform under POSHAN Abhiyaan
+New Poshan Tracker App - CSC-SPV Nodal Person
+New Poshan Tracker App
+Beneficiary Category
+Select a Beneficiary Category
+Children (0-6 months)
+Children (6 months - 3 years)
+Children (3 - 6 years)
+Query Related to
+Select Query Related to
+Supervisor
+Help Topic
+Description
+Select a Description
+Name
+Mobile Number
+Email
+By District
+State
+District
+Project
+Select Project
+Sector
+Select Sector
+Anganwadi Center
+Select An Anganwadi center
+Create Ticket 

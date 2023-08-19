@@ -1,0 +1,4 @@
+fasttext 
+selenium 
+bs4 
+indic-nlp-library
