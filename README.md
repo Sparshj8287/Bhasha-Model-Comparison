@@ -7,8 +7,7 @@ The **Bhasha Model Comparison** repository is a project aimed at evaluating and 
 - [Folder Directory Structure](#1-Folder-Directory-Structure)
 - [Code files ](#2-Code-files )
 - [Text Files](#3-Text-Files)
-- [lid.176.bin ](#4-lid.176.bin )
-- [Cloning this repository ](#8-Cloning-this-repository)
+- [Cloning this repository ](#4-Cloning-this-repository)
 - [Installation of Model Inference code (in Local)](#5-Installation-of-Model-Inference-code)
 - [Import Dependicies](#6-Import-Dependicies)
 - [README.md ](#7-README.md )
@@ -116,17 +115,15 @@ Python script for preprocessing text data before feeding it to the models.
 Python script for web scraping that can **generalize to any website.**
 
 
-## 4) lid.176.bin 
 
-For language detection I use fasttext model. This file contains weights of the fasttext model.
-## 5) Cloning this repository 
+## 4) Cloning this repository 
 
 - Command to clone this repository:-
 ```
 git clone https://github.com/Sparshj8287/Bhasha-Model-Comparison.git
 ```
 
-## 6) Installation of Model Inference code (in Local) 
+## 5) Installation of Model Inference code (in Local) 
 
 **Note**:- If you want to inference the models in local then run the following command:-
 ```python
@@ -141,18 +138,28 @@ you can click the link which is given above.
 
 **Make sure to put the indic_trans_inference.py in the indicTrans repository for excluding file path errors.**
 
-## 7) Import Dependicies
+Make sure to correct the indic_trans_inference.py paths according to your system paths.
+```python
+indic2en_model = Model(expdir='/..indic-en')
+```
+```python
+os.environ['PYTHONPATH'] += ":/content/fairseq/"
+```
+
+## 6) Import Dependicies
  Install dependencies (only once):
 ```python
 pip install -r requirements.txt
 ```
+**Download the fasttext model weight file and add the file in the Code_files repository:**
+[Link](https://dl.fbaipublicfiles.com/fasttext/supervised-models/lid.176.bin)
 
 
-## 8) README.md 
+## 7) README.md 
 
 A README file providing general information about our project and its directory structure.
 
-## 9) Usage 
+## 8) Usage 
 
 In order to implement the general web scraper code which can be used for any dynamic website:-
 - Command to run the `Code_files/web_scraper.py`:
