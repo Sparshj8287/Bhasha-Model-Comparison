@@ -1,6 +1,10 @@
 # <center>Bhasha Model Comparison<center>
 <br>
 
+
+![](india.png)
+
+
 The **Bhasha Model Comparison** repository is a project aimed at evaluating and comparing the performance of two different language translation models on 11 diverse Indian languages. The project focuses on translating these Indian languages into English using two distinct models: the **Indic Trans model** and the **NLLB (No language left behind)** model. The repository provides a comprehensive framework for assessing the translation quality and effectiveness of these models across various Indian languages.
 
 - [Colab notebook](#1-colab-notebook)
@@ -48,7 +52,6 @@ Bhasha Model Comparison
 │ ├── indic_text_scraper.py
 │ ├── indic_trans_inference.py
 │ ├── install_dependencies.sh
-│ ├── lid.176.bin
 │ ├── nllb_inference.py
 │ ├── preprocessing.py
 │ └──web_scraper.py
