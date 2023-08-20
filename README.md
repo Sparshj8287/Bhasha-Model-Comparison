@@ -88,11 +88,11 @@ This directory holds the text which is extracted from [PoshanTracker](https://ww
 
 ### `english_text_scraper.py`
 
-This script scrapes English text from the source for evaluation.
+This script scrapes English text from the [PoshanTracker](https://www.poshantracker.in/) for evaluation. The scraped text will be save in text_files directory.
 
 ### `indic_text_scraper.py`
 
-This script scrapes Indic text in 11 different languages from the source for evaluation.
+This script scrapes Indic text in 11 different languages from the [PoshanTracker](https://www.poshantracker.in/) for evaluation. The scraped text will be save in text_files directory.
 
 ### `indic_trans_inference.py`
 
@@ -113,7 +113,7 @@ Python script for preprocessing text data before feeding it to the models.
 ### `web_scraper.py`
 
 Python script for web scraping that can **generalize to any website.**
-
+The scraped text will be save in a new directory named as web_scraper_text.
 
 
 ## 4) Cloning this repository 
@@ -122,7 +122,9 @@ Python script for web scraping that can **generalize to any website.**
 ```
 git clone https://github.com/Sparshj8287/Bhasha-Model-Comparison.git
 ```
-
+```python
+cd Bhasha-Model-Comparison
+```
 ## 5) Installation of Model Inference code (in Local) 
 
 **Note**:- If you want to inference the models in local then run the following command:-
