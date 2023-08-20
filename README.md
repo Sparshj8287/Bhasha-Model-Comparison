@@ -129,10 +129,10 @@ cd Bhasha-Model-Comparison
 
 **Note**:- If you want to inference the models in local then run the following command:-
 ```python
-chmod +x install_dependencies.sh
+chmod +x Code_files/install_dependencies.sh
 ```
 ```python
-./install_dependencies.sh
+./Code_files/install_dependencies.sh
 ```
 Else the **inference of both models is done in colab notebook**.
 you can click the link which is given above.
