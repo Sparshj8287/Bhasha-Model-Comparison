@@ -93,7 +93,9 @@ class WebScraper:
 
 
 if __name__ == '__main__':
-    #Only these urls texts are changed for different languages/
+    """Only these urls texts are changed for different languages
+    Note:- You can manually change the languages of the webpages open by the webdriver.
+    """
     URLS = ['https://www.poshantracker.in/',
             'https://www.poshantracker.in/career',
             'https://www.poshantracker.in/termsofservice',

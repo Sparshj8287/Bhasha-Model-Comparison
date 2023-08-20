@@ -55,8 +55,10 @@ class EnglishTextScraper(WebScraper):
         self.write_to_file(eng_path, final_eng_result)
 
     # Main function remains similar to the one in indic_text.py
-
 if __name__ == '__main__':
+    """Note:- This code is for scraping English text from the poshan tracker website.
+    The webdriver opens this urls two times. For the first time you select the any indian language for scraping the text. Make sure you select the one indian language for all the wepages. In the second time you do noting because the default language is english.
+    This code does not scraped the whole text but the text which is changed dynamically"""
     URLS = ['https://www.poshantracker.in/',
             'https://www.poshantracker.in/career',
             'https://www.poshantracker.in/termsofservice',

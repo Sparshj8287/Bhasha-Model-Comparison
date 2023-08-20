@@ -29,6 +29,7 @@ def get_soup(target_url):
         # Wait for elements to load
         driver.implicitly_wait(220)
         # Fetch the page source and parse it with BeautifulSoup
+        #Use can reduce the timer for faster scraping of the website
         time.sleep(60)
         resp = driver.page_source
         soup = BeautifulSoup(resp, 'lxml')
@@ -61,6 +62,7 @@ def write_to_file(formatted_text, output_file):
         f.write(formatted_text)
 
 def main():
+    """Note:- You can scraped any dynamic website using this code. You can change manually in the web driver and scrape the website according to your need."""
     parser = argparse.ArgumentParser(description='Translate Indic text to English using IndicTrans model')
     parser.add_argument('--url', type=str, required=True, 
                         help='Path to the input Indic text file')
