@@ -2,6 +2,7 @@ from indic_text_scraper import WebScraper
 import concurrent.futures
 from collections import OrderedDict
 from collections import Counter
+import os 
 
 class EnglishTextScraper(WebScraper):
     def english_text_batch(self, target_url, index):
@@ -48,8 +49,9 @@ class EnglishTextScraper(WebScraper):
             final_english_text.extend(english_text)
         final_eng_result = '\n'.join(list(OrderedDict.fromkeys(final_english_text)))
 
+        os.makedirs(f'Code_files/text_files', exist_ok=True)  # Create output directory (if it doesn't exist) to store result files
         # Paths for output files
-        eng_path = f'text_files/ground_truth_text.txt'
+        eng_path = f'Code_files/text_files/ground_truth_text.txt'
         self.write_to_file(eng_path, final_eng_result)
 
     # Main function remains similar to the one in indic_text.py

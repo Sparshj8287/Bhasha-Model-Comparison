@@ -1,3 +1,4 @@
+cd Code_files
 git clone https://github.com/AI4Bharat/indicTrans.git
 cd indicTrans
 pip install fasttext selenium bs4 

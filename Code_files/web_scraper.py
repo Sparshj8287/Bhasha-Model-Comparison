@@ -5,6 +5,7 @@ from selenium.webdriver.chrome.options import Options
 import argparse
 import time
 import locale
+import os
 
 # Modified getpreferredencoding function to always return UTF-8
 def getpreferredencoding(do_setlocale = True):
@@ -54,6 +55,11 @@ def get_soup(target_url):
 
     return None
 
+def write_to_file(formatted_text, output_file):
+    """Writes the formatted text to the output file."""
+    with open(output_file, 'w', encoding='utf-8') as f:
+        f.write(formatted_text)
+
 def main():
     parser = argparse.ArgumentParser(description='Translate Indic text to English using IndicTrans model')
     parser.add_argument('--url', type=str, required=True, 
@@ -63,7 +69,13 @@ def main():
     target_url = args.url
     formatted_text = get_soup(target_url)
     print(formatted_text)
-    return formatted_text
+    os.makedirs(f'Code_files/web_scraper_text', exist_ok=True)  # Create output directory (if it doesn't exist) to store result files
+
+        # Paths for output files
+    PATH = f'Code_files/web_scraper_text/website_text.txt'
+
+        # Write the results into corresponding files
+    write_to_file(formatted_text, PATH)
 
 
 if __name__ == '__main__':

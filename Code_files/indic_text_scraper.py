@@ -82,10 +82,10 @@ class WebScraper:
             
         final_indic_result = '\n'.join(list(OrderedDict.fromkeys(final_indic_text)))  # Remove duplicates and join sentences
         
-        os.makedirs(f'text_files', exist_ok=True)  # Create output directory (if it doesn't exist) to store result files
+        os.makedirs(f'Code_files/text_files', exist_ok=True)  # Create output directory (if it doesn't exist) to store result files
 
         # Paths for output files
-        indic_path = f'text_files/{lang_code[9:]}_indic_text.txt'
+        indic_path = f'Code_files/text_files/{lang_code[9:]}_indic_text.txt'
 
         # Write the results into corresponding files
         self.write_to_file(indic_path, final_indic_result)
