@@ -17,8 +17,7 @@ The **Bhasha Model Comparison** repository is a project aimed at evaluating and 
 - [README.md ](#7-README.md )
 - [Usage](#8-Usage )
 
-## Depondfi'23 notebooks {#1-Depondfi-notebooks}
-
+## Bhasha Model Comparison notebook 
 You can open the notebook in Colab (there is a button directly on said pages).
 
 | Notebook                   | Description                                                                    |                                                                                                                                                                     |
