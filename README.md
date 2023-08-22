@@ -25,7 +25,7 @@ You can open the notebook in Colab (there is a button directly on said pages).
 | Colab Notebook | Inference on two models (indicTrans and NLLB)                           | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tL2axVDh0-IcxksooJGaneUXUgHDRK6Z?usp=sharing) |
 
 
-## 1) Folder Directory Structure {#1-Folder-Directory-Structure}
+## 1) Folder Directory Structure 
 
 ```
 
