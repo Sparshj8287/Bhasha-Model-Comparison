@@ -14,14 +14,14 @@ def link_preprocessing(links):
     india_gov = {}
     valid_urls = []
     domains=[]
+    final_domains=[]
     for url in links:
             parsed_url = urlparse(url)
             domain = urlsplit(url).netloc
             schema=parsed_url.scheme
             domains.append(schema+'://'+domain)
-            final_domains=list(set(domains))
             valid_urls.append((url, domain))
-
+    final_domains=list(set(domains))
 
     for url, url_domain in valid_urls:
             if url_domain == 'www.india.gov.in':

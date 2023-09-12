@@ -37,10 +37,8 @@ def get_soup(target_url):
         driver.implicitly_wait(220)
         # Fetch the page source and parse it with BeautifulSoup
         # Use can reduce the timer for faster scraping of the website
-        time.sleep(1)
+        time.sleep(5)
         resp = driver.page_source
-        
-
         # iterate over the elements
         pdf_link_found = False
         count=[]
@@ -54,7 +52,7 @@ def get_soup(target_url):
 
         text_dict = bare_extraction(resp)
         trafil_text=text_dict['text']
-        print(trafil_text)
+        # print(trafil_text)
 
         links_second_method = driver.find_elements(By.TAG_NAME, 'a')
         for link in links_second_method:
@@ -75,7 +73,7 @@ def get_soup(target_url):
             print("PDF link found")
         else:
             print("PDF link not found")
-        print(trafil_text)
+        # print(trafil_text)
         return trafil_text,link_list
 
     except WebDriverException as e:
@@ -93,7 +91,6 @@ def get_soup(target_url):
         # Regardless of exception, always close the driver
         driver.close()
 
-    return None
 
 
 def write_to_file(formatted_text, links, output_file, links_output_file):
